@@ -12,6 +12,13 @@
 * [Snap](https://gitlab.com/libre-knowledge/snap)  
   由 Canonical 公司所開發，跨 GNU/Linux 作業系統散布版的軟體散布解決方案
 
+## 參考資料
+
+以下列舉撰寫本主題內容時所參考的第三方資源：
+
+* [Package manager - Wikipedia](https://en.wikipedia.org/wiki/Package_manager)  
+  說明軟體包管理器的基本概念
+
 ---
 
 本主題為[自由知識協作平台](https://gitlab.com/libre-knowledge/libre-knowledge)的一部分，除部份特別標註之經合理使用(fair use)原則使用的內容外允許公眾於授權範圍內自由使用
